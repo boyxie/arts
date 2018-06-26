@@ -6,4 +6,9 @@
 1. 做一个LeetCode算法题（algorithm）
 1. 阅读点评一篇英文技术文章（review）
 
+# 待完成任务
+- [x] week3
+- [ ] week4
+
+
 [MarkDown基础操作](http://note.youdao.com/iyoudao/?p=2411)
