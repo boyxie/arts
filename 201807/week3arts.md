@@ -76,5 +76,7 @@ T method(A param1, B param2);
 # tip
 ## 记几个常用的长命令
 ssh -p 8022 root@1.2.3.4 加端口的ssh连接
+
 scp -r /Users/docker/*  root@1.2.3.4:/usr/docker/  上传所有文件到服务器
+
 redis-cli -h host -p 6379 -a password  远程连接redis
