@@ -69,7 +69,7 @@ T method(A param1, B param2);
 
 # share
 ## RPC原理
-<img src="https://static001.geekbang.org/resource/image/85/25/8534c52daf3682cd1cfe5a3375ec9525.jpg" width="500" hegiht="313" align=center />
+<img src="https://static001.geekbang.org/resource/image/85/25/8534c52daf3682cd1cfe5a3375ec9525.jpg" width="800" hegiht="313" align=center />
 超哥这个图，真的很明了，有时间再深入理解一下
 
 
