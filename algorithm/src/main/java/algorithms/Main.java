@@ -29,6 +29,13 @@ public class Main {
         System.out.println(sum/8/1024/1024/1024/1024);
     }
 
+
+    public static void testStatic(){
+         int a = 5;
+
+    }
+
+
     public static ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         if (l1 == null)
             return l2;
