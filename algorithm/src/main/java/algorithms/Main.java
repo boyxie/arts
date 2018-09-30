@@ -30,6 +30,16 @@ public class Main {
     }
 
 
+    public String reverseString(String s) {
+        if (s.length() < 2) { return s;}
+        String res;
+        for (int i = 0; i <= s.length() / 2; i++) {
+
+        }
+        return s;
+    }
+
+
     public static void testStatic(){
          int a = 5;
 
