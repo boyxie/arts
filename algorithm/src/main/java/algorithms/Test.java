@@ -14,7 +14,7 @@ import java.util.Date;
 public class Test {
 
     public static void main(String[] args) throws Exception {
-        byte[] bytes1 = Base64.getEncoder().encode("13857165377".getBytes());
+        byte[] bytes1 = Base64.getEncoder().encode("13812341234".getBytes());
         System.out.println(new String(bytes1));
         byte[] bytes2 = Base64.getDecoder().decode(new String(bytes1));
         System.out.println(new String(bytes2));
@@ -34,7 +34,7 @@ public class Test {
         //加密
         Cipher cipher = Cipher.getInstance("AES/ECB/PKCS5Padding");
         cipher.init(Cipher.ENCRYPT_MODE, key);
-        byte[] encodeResult = cipher.doFinal("13857165377".getBytes());
+        byte[] encodeResult = cipher.doFinal("13812341234".getBytes());
 //        System.out.println("AESencode : " + Hex(encodeResult));
 
         //解密
