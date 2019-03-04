@@ -1,4 +1,4 @@
-package algorithms;
+package io;
 
 import java.io.IOException;
 import java.net.InetAddress;
